@@ -1,0 +1,9 @@
+{
+  "name": "ARGON Interactive AI",
+  "description": "A sophisticated, voice-commanded AI assistant developed by ZIM core, featuring real-time multimodal interaction, vision capabilities, and a futuristic holographic interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
